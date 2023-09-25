@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashOneStar
 - 👀 I’m interested in exploring Web, Android,Game Development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on MERN stack projects
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me akashyap.mail1@gmail.com
 
 <!---
